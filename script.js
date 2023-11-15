@@ -4,7 +4,7 @@ let yell=str.split(red);
 console.log(str);
 console.log(yell);
 let ans={
-   firstname: null,
+   firstName: null,
    lastName:null,
    id: null
 };  
